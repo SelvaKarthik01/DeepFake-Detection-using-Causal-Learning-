@@ -21,6 +21,9 @@ This repository contains a comprehensive machine learning pipeline for **detecti
 
 ## 🏗️ Project Architecture
 
+<img width="872" height="597" alt="image" src="https://github.com/user-attachments/assets/e4914483-f941-4e80-a94b-75cf26396532" />
+
+
 ### 1. **Golden Frames Extraction** (`Golden Frames Extracter/`)
    - **File**: `GoldenFramestester.py`
    - **Purpose**: Extract the highest quality frames from videos
@@ -74,6 +77,9 @@ This repository contains a comprehensive machine learning pipeline for **detecti
      - Classification Report
      - ROC-AUC Score
      - Top-K Accuracy
+    
+   <img width="840" height="832" alt="image" src="https://github.com/user-attachments/assets/c2898db5-dc6b-43d0-930d-ecb937005cf4" />
+
 
 ---
 
